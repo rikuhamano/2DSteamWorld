@@ -32,12 +32,12 @@ This version is playable to the part where player can move in the stage, fight e
 - Selecting up/down will move player forward too.
 - There is only Box and one enemy type.
 - Collecting box will grant player a random item.
-- Player's item box can contain only 3 item. and can be used by pressing number 1, 2 and 3 respectively. colleting new item will replace the oldest item in the item box.
+- Player's item box can contain only 4 item. and can be used by pressing number 1, 2, 3 and 4 respectively. colleting new item will replace the oldest item in the item box.
 - Right now, Player can use item only in exploring phase.
-- Player can be effected by 3 buff and 1 debuff. The buffs stay only 5 turns. getting new buff will replace the oldest buff. 
+- Player can be effected by 4 buff and 1 debuff. The buffs stay only 5 turns. getting new buff will replace the oldest buff. 
 - Random Item can be character Buff/Debuff and Usable Item
 - When entering battle scene, there's a invisible time counter for player and enemy before taking action(Cooldown). Each weapon/enemies have difference cooldown(haven't implement yet)
-- At the moment, player can only use normal attack(press A) when system announce Plyaer's turn. (While it's player's turn, enemy can still attack player if their action is off CDs.)
+- At the moment, player can use normal attack(press A) or reload weapon with special bullet(Press R) when system announce Plyaer's turn. (While it's player's turn, enemy can still attack player if their action is off CDs.)
 
 Concept arts can be found here.
 https://drive.google.com/drive/folders/1LP6KiX1K0ySPnITzOu6dUe_e68-I64ok?usp=sharing
