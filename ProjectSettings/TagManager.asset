@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Board
+  - Enemy
+  - Item
+  - BattleScene
+  - HUDCanvas
+  - BattleCanvas
+  - BlackScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Object
+  - Board
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2602187511
+    locked: 0
+  - name: Platform
+    uniqueID: 3401331793
+    locked: 0
+  - name: Object
+    uniqueID: 3276660083
+    locked: 0
+  - name: BlackScreen
+    uniqueID: 1034889471
+    locked: 0
+  - name: FightScene
+    uniqueID: 1281949547
+    locked: 0
